@@ -1,2 +1,3 @@
-learn pull requstes
-this is nots fro created pull
+learn pull requests
+This is not for created pull
+This is how run pull 
